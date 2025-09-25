@@ -4,6 +4,8 @@ description: Introductory lecture notes.
 file: /courses/1-731-water-resource-systems-fall-2006/a104758a3020eae5ec6b3f64e7e31aaa_lect1.pdf
 file_size: 42737
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

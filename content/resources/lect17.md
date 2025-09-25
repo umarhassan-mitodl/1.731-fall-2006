@@ -4,6 +4,8 @@ description: Summary of the lecture covering River Basin Planning ? Screening Mo
 file: /courses/1-731-water-resource-systems-fall-2006/72fc34ca4b8869d8d5e45dad56268c9d_lect17.pdf
 file_size: 64289
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

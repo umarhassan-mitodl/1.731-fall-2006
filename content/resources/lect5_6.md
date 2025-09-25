@@ -4,6 +4,8 @@ description: Summary of the lecture covering Optimality Conditions.
 file: /courses/1-731-water-resource-systems-fall-2006/805fed5182cc0626bbeac6b4586997e7_lect5_6.pdf
 file_size: 104843
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
