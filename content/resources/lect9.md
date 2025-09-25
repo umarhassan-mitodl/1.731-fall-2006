@@ -4,6 +4,8 @@ description: Summary of the lecture covering Linear Programming Sensitivity Anal
 file: /courses/1-731-water-resource-systems-fall-2006/183e2a9963998820d6502515840e61d2_lect9.pdf
 file_size: 74049
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
