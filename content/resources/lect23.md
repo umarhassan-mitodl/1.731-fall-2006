@@ -5,8 +5,6 @@ description: Summary of the lecture covering Variational and Adjoint Methods, Da
 file: /courses/1-731-water-resource-systems-fall-2006/175ca176b3f9c8e139b2d7912e9f7f45_lect23.pdf
 file_size: 72570
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

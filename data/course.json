@@ -33,7 +33,6 @@
     "website": "1-731-water-resource-systems-fall-2006"
   },
   "course_title": "Water Resource Systems",
-  "hide_download": true,
   "course_description": "This subject is concerned with quantitative methods for analyzing large-scale water resource problems. Topics covered include the design and management of facilities for river basin development, flood control, water supply, groundwater remediation, and other activities related to water resources. Simulation models and optimization methods are often used to support analyses of water resource problems. In this subject we will be constructing simulation models with the MATLAB\u00ae programming language and solving numerical optimization problems with the GAMS optimization package.\n",
   "department_numbers": [
     "1"
@@ -44,7 +43,6 @@
     "content": "6bf551d3-5703-8d10-1c00-9be30b713285",
     "website": "1-731-water-resource-systems-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

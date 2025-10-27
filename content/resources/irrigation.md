@@ -4,8 +4,6 @@ description: This file is a supporting file for the introductory lecture.
 file: /courses/1-731-water-resource-systems-fall-2006/94e57fc783ff8d286aaf6142cf623c8f_irrigation.m
 file_size: 1010
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Survey given to students in the class.
 file: /courses/1-731-water-resource-systems-fall-2006/8bbdb7a054bdb53b0f6eab98a8f86acb_survey.pdf
 file_size: 21780
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

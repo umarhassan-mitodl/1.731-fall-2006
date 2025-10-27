@@ -4,8 +4,6 @@ description: Summary of the lecture covering Supply and demand, Groundwater Mana
 file: /courses/1-731-water-resource-systems-fall-2006/c325459782c5a68ecd3eff4d13619077_lect16.pdf
 file_size: 75741
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

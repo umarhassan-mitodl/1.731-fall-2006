@@ -4,8 +4,6 @@ description: Homework assignment.
 file: /courses/1-731-water-resource-systems-fall-2006/986432c3971698bab5e67ebde8a4aee6_assn1.pdf
 file_size: 32012
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

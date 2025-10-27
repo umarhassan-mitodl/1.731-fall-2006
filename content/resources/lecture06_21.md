@@ -5,8 +5,6 @@ description: This resource is a supporting file for the lecture covering Capacit
 file: /courses/1-731-water-resource-systems-fall-2006/0ea35d4b0468d2a338cf310921c31bfc_Lecture06_21.m
 file_size: 1444
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
